@@ -53,3 +53,7 @@ Maven:
 ```bash
 ./mvnw spring-boot:run
 ```
+
+## Reference
+
+Tutorial: [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service).
