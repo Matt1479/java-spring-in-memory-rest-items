@@ -10,7 +10,7 @@ This is a small practice project for learning the fundamentals of building REST 
 
 - Java
 - Spring Boot
-- Spring Web
+- Spring `RestController` (Spring Boot dependency: `Spring Web`)
 - Maven
 - Postman
 
